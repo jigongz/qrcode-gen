@@ -1,0 +1,30 @@
+[
+  {
+    "id": "qr_demo_dynamic_1",
+    "name": "Brosur Promo Toko (Dynamic)",
+    "type": "dynamic",
+    "destinationUrl": "https://google.com",
+    "encodedUrl": "http://localhost:3000/r/qr_demo_dynamic_1",
+    "shortId": "qr_demo_dynamic_1",
+    "scanCount": 7,
+    "lastScannedAt": "2026-10-02T14:20:00.000Z",
+    "fgColor": "#09090b",
+    "bgColor": "#ffffff",
+    "createdAt": "2026-10-01T08:00:00.000Z",
+    "updatedAt": "2026-10-02T14:20:00.000Z"
+  },
+  {
+    "id": "qr_demo_static_2",
+    "name": "Website Portfolio (Static)",
+    "type": "static",
+    "destinationUrl": "https://github.com",
+    "encodedUrl": "https://github.com",
+    "shortId": "qr_demo_static_2",
+    "scanCount": 0,
+    "lastScannedAt": null,
+    "fgColor": "#09090b",
+    "bgColor": "#ffffff",
+    "createdAt": "2026-09-30T10:15:00.000Z",
+    "updatedAt": "2026-09-30T10:15:00.000Z"
+  }
+]
